@@ -1,0 +1,16 @@
+C:\Users\Tony Assis\Desktop\cursos online\Digital innovation One\Projeto\bin\Debug\net5.0\Projeto.exe
+C:\Users\Tony Assis\Desktop\cursos online\Digital innovation One\Projeto\bin\Debug\net5.0\Projeto.deps.json
+C:\Users\Tony Assis\Desktop\cursos online\Digital innovation One\Projeto\bin\Debug\net5.0\Projeto.runtimeconfig.json
+C:\Users\Tony Assis\Desktop\cursos online\Digital innovation One\Projeto\bin\Debug\net5.0\Projeto.runtimeconfig.dev.json
+C:\Users\Tony Assis\Desktop\cursos online\Digital innovation One\Projeto\bin\Debug\net5.0\Projeto.dll
+C:\Users\Tony Assis\Desktop\cursos online\Digital innovation One\Projeto\bin\Debug\net5.0\ref\Projeto.dll
+C:\Users\Tony Assis\Desktop\cursos online\Digital innovation One\Projeto\bin\Debug\net5.0\Projeto.pdb
+C:\Users\Tony Assis\Desktop\cursos online\Digital innovation One\Projeto\obj\Debug\net5.0\Projeto.csproj.AssemblyReference.cache
+C:\Users\Tony Assis\Desktop\cursos online\Digital innovation One\Projeto\obj\Debug\net5.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony Assis\Desktop\cursos online\Digital innovation One\Projeto\obj\Debug\net5.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\Tony Assis\Desktop\cursos online\Digital innovation One\Projeto\obj\Debug\net5.0\Projeto.AssemblyInfo.cs
+C:\Users\Tony Assis\Desktop\cursos online\Digital innovation One\Projeto\obj\Debug\net5.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Tony Assis\Desktop\cursos online\Digital innovation One\Projeto\obj\Debug\net5.0\Projeto.dll
+C:\Users\Tony Assis\Desktop\cursos online\Digital innovation One\Projeto\obj\Debug\net5.0\ref\Projeto.dll
+C:\Users\Tony Assis\Desktop\cursos online\Digital innovation One\Projeto\obj\Debug\net5.0\Projeto.pdb
+C:\Users\Tony Assis\Desktop\cursos online\Digital innovation One\Projeto\obj\Debug\net5.0\Projeto.genruntimeconfig.cache
